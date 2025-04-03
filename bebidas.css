@@ -1,0 +1,144 @@
+table {
+  background: black;
+  position: absolute;
+  width: 1520px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+p.header {
+  font-family: 'Montserrat';
+  color: #CF960C;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-right: 30px;
+  margin-left: 10px
+}
+
+div {
+  background-image: "comida.jpg";
+}
+
+a {
+  color: #CF960C;
+  text-decoration: none;
+}
+
+a.visitado {
+  color: #fff;
+}
+
+a:hover {
+  color: #b68209;
+}
+
+body {
+    background-image: url(https://emc.acidadeon.com/dbimagens/20110520141223.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+}
+div.bebidas{
+  text-indent:300px; 
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 300px;
+}
+p.bebidas{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgbebidas{
+   -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);  
+  position: absolute;
+  width: 445px;
+  top: 117px;
+  right: 474px;
+}
+div.alcoolicas{
+  text-indent: 350px;
+ background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 850px;
+}
+p.alcoolicas{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgalcool{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);  
+  position: absolute;
+  width: 615px;
+  top: 152px;
+  right: 337px
+}
+div.caipirinha{
+  text-indent: 150px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 1500px;
+}
+.imgcaipirinha{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);  
+  position: absolute;
+  width: 226px;
+  top: 49px;
+  right: 624px
+}
+div.cerveja{
+  text-indent: 200px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 1800px;
+}
+.imgcerveja{
+  width: 90px;
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);  
+  position: absolute;
+  right: 724px;
+  top: 16px;
+}
+p.cerveja{
+  color: #CF960C;
+  font-size: 17px;
+}

@@ -1,0 +1,329 @@
+table {
+  background: black;
+  position: absolute;
+  width: 1350px;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+
+p.header {
+  font-family: 'Montserrat';
+  color: #CF960C;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-right: 30px;
+  margin-left: 10px
+}
+
+a {
+  color: #CF960C;
+  text-decoration: none;
+}
+
+a.visitado {
+  color: #fff;
+}
+
+a:hover {
+  color: #b68209;
+}
+
+body {
+    background-image: url(https://emc.acidadeon.com/dbimagens/20110520141223.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+}
+div.sushi{
+  text-indent: 250px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  width: 800px;
+  height: 530px;
+  position: absolute;
+  top: 300px;
+  left: 50px;
+  color: white;
+  
+}
+p.sushi{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgsushi{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);  
+  position: absolute;
+  right: 415px;
+  top: 145px;
+}
+div.niguiri{
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 900px;
+  text-indent: 160px
+  
+  
+  
+}
+p.niguiri{
+  color: #CF960C;
+  font-size: 17px;
+  
+}
+.imgniguiri{
+    -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  width: 263px;
+  position: absolute;
+  right: 594px;
+  top: 58px
+}
+div.sashimi{
+  text-indent: 110px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 1200px
+}
+p.sashimi{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgsashimi{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  width: 159px;
+  position: absolute;
+  right: 670px;
+  top: 35px;
+}
+div.temaki{
+  text-indent: 240px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  position: absolute;
+  top: 1400px;
+  left: 50px;
+  width: 800px;
+  height: 366px;
+}
+p.temaki{
+  color: #CF960C; 
+  font-size: 17px
+}
+.imgtemaki{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  width: 367px;
+  position: absolute;
+  right: 514px;
+  top: 80px
+}
+div.combo{
+  text-indent: 150px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  position: absolute;
+  left: 50px;
+  top: 1800px;
+  width: 800px;
+}
+.imgcombo{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  position: absolute;
+  width: 273px;
+  top: 79px;
+  right: 605px;
+}
+p.combo{
+  color: #CF960C;
+  font-size: 17px;
+}
+div.teishoku{
+  text-indent: 180px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 2150px
+}
+p.teishoku{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgteishoku{
+  position: absolute;
+  width: 150px;
+  height: 203px;
+  right: 650px;
+  top: 0px;
+}
+div.teppan{
+  text-indent: 180px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  top: 2400px;
+  left: 50px;
+}
+p.teppan{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgteppan{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  position: absolute;
+  width: 240px;
+  top: 40px;
+  right: 601px;
+}
+div.yakisoba{
+ text-indent: 180px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 850px;
+  position: absolute;
+  left: 50px;
+  top: 2700px;
+}
+.imgyakisoba{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  position: absolute;
+  width: 239px;
+  top: 45px;
+  right: 655px
+}
+p.yakisoba{
+  color: #CF960C;
+  font-size: 17px;
+}
+div.katsu{
+  text-indent: 200px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 3000px;
+}
+p.katsu{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgkatsu{
+  width: 173px;
+  position: absolute;
+  right: 627px;
+  top: 0px;
+}
+div.porcao{
+  text-indent: 220px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 3200px;
+}
+p.porcao{
+  color: #CF960C;
+  font-size: 17px;
+}
+.imgporcao{
+  -webkit-transform:rotate(90deg);  
+  -moz-transform: rotate(90deg);  
+  -ms-transform: rotate(90deg);  
+  -o-transform: rotate(90deg);  
+  transform: rotate(90deg);
+  position: absolute;
+  width: 532px;
+  right: 434px;
+  top: 166px;
+  height: 200px;
+}
+div.sobremesas{
+  text-indent: 250px;
+  background-color: #18191A;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: white;
+  width: 800px;
+  position: absolute;
+  left: 50px;
+  top: 3800px;
+}
+.imgsobremesas{
+  position: absolute;
+  width: 230px;
+  right: 570px;
+  top: 0px;
+  height: 161px
+}
+p.sobremesas{
+  color: #CF960C;
+  font-size: 17px;
+}
+
+

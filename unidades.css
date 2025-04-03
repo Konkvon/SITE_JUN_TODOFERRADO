@@ -1,0 +1,133 @@
+table {
+    background: black;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+}
+p.cabecalho {
+    color: #CF960C;
+    font-size: 20px;
+    margin-right: 100px;
+}
+
+a.mi {
+    color: #CF960C ;
+}
+body{
+    background-image: url(https://emc.acidadeon.com/dbimagens/20110520141223.jpg);
+  background-repeat: no repeat;
+  background-size: cover;
+}
+.caixa1{
+  background-color: #696969;
+  position: absolute;
+  top: 230px;
+  font-size: 60px;
+  left: 320px;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: #CF960C;
+  width: 700px;
+  text-align: center;
+}
+.caixa2{
+  background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: #CF960C;
+  position: absolute;
+  font-size: 30px;
+  top: 350px;
+  left: 40px;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+}
+.caixa3{
+  background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  width: 275px;
+  height: 250px;
+  position: absolute;
+  left: 9px;
+}
+.caixa4{
+    background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: #CF960C;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  top: 350px;
+  left: 360px;
+  
+  
+}
+.caixa5{
+  background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  width: 275px;
+  height: 220px;
+  position: absolute;
+  left: 9px;
+  
+}
+.caixa6{
+  background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: #CF960C;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  top: 350px;
+  left: 680px
+}
+.caixa7{
+    background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  width: 275px;
+  height: 220px;
+  position: absolute;
+  left: 9px;
+}
+.caixa8{
+  background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  color: #CF960C;
+  position: absolute;
+  font-size: 30px;
+  text-align: center;
+  height: 300px;
+  width: 300px;
+  top: 350px;
+  left: 1000px
+}
+.caixa9{
+  background-color: #696969;
+  border: 1;
+  border-style: solid;
+  border-color: #CF960C;
+  width: 275px;
+  height: 220px;
+  position: absolute;
+  left: 9px;
+}
